@@ -1,0 +1,44 @@
+# Geotechnique — Marseille
+
+> Geotechnical engineering services in Marseille, France.
+
+## Services
+- [Ancrages](https://marseille.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://marseille.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://marseille.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://marseille.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://marseille.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://marseille.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://marseille.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://marseille.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://marseille.geotechnique.vip/essais-proctor/)
+- [Excavations Profondes](https://marseille.geotechnique.vip/excavations-profondes/)
+- [Granulometrie](https://marseille.geotechnique.vip/granulometrie/)
+- [Injections](https://marseille.geotechnique.vip/injections/)
+- [Investigation](https://marseille.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://marseille.geotechnique.vip/isolation-sismique/)
+- [Limites Atterberg](https://marseille.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://marseille.geotechnique.vip/liquefaction/)
+- [Masw](https://marseille.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://marseille.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://marseille.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://marseille.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://marseille.geotechnique.vip/pieux/)
+- [Puits Inspection](https://marseille.geotechnique.vip/puits-inspection/)
+- [Radiers](https://marseille.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://marseille.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://marseille.geotechnique.vip/resistivite/)
+- [Semelles](https://marseille.geotechnique.vip/semelles/)
+- [Sondages Spt](https://marseille.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://marseille.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://marseille.geotechnique.vip/surveillance-excavations/)
+- [Triaxial](https://marseille.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://marseille.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://marseille.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://marseille.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Marseille, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
